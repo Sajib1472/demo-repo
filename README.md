@@ -7,3 +7,5 @@ some text
 watch tutorial on youtube
 
 ## local developer 
+
+## new line for master branch in the vscode
